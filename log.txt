@@ -1,0 +1,1 @@
+Function 'total' called with positional arguments (10, 1) and keyword arguments {}.
